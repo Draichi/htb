@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.14.3",
+    "garak>=0.15.0",
     "jupyter>=1.1.1",
     "nltk>=3.9.4",
     "pandas>=3.0.2",
